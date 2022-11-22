@@ -4,4 +4,6 @@ Or is it?
 
 We might make it permanent. It could go on forever.
 
-(Not sure how to say "I speak French" in French.)
+Je parle la francais! Je voudrais elle parler.
+
+Let's try merging branches again!
